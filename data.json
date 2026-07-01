@@ -1,0 +1,13 @@
+{
+  "defaultItems": [
+    { "id": "wake",     "label": "Wake",                      "type": "event",  "start": "07:00", "end": null },
+    { "id": "lauds",    "label": "Lauds",                     "type": "prayer", "start": "07:15", "end": "07:30" },
+    { "id": "rosary",   "label": "Rosary",                    "type": "prayer", "start": "07:30", "end": "08:00" },
+    { "id": "work",     "label": "Work",                      "type": "event",  "start": "10:00", "end": "17:00" },
+    { "id": "vespers",  "label": "Vespers",                   "type": "prayer", "start": "17:30", "end": "18:00" },
+    { "id": "lectio",   "label": "Scripture \u00b7 Lectio Divina", "type": "prayer", "start": "21:00", "end": "21:30" },
+    { "id": "reading",  "label": "Spiritual Reading",         "type": "prayer", "start": "21:30", "end": "22:00" },
+    { "id": "compline", "label": "Compline",                  "type": "prayer", "start": "23:45", "end": "00:00" },
+    { "id": "bed",      "label": "Retire",                    "type": "event",  "start": "00:15", "end": null }
+  ]
+}
